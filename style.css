@@ -20,3 +20,21 @@
 .topnav a:hover {
     text-decoration: underline;
 }
+
+.title {
+    font-family: 'Inter', sans-serif;
+    font-size: 96px;
+}
+
+.hello, .me {
+    margin: 0;
+}
+
+.hello {
+    color: #1E1E1E;
+}
+
+.me {
+    color: rgb(208,128,209,15%);
+    -webkit-text-stroke: 4px #1E1E1E;
+}
